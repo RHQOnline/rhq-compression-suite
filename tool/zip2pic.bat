@@ -26,7 +26,7 @@ echo.
 echo.
 pause
 cls
-copy /b %picname%+%zipname% %endname%
+copy /b %picname%+%zipname% %endname%>nul
 echo.
 echo.
 echo Utilities complete! Closing program...
