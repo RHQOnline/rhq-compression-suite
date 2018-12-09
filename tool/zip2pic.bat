@@ -27,6 +27,8 @@ echo.
 pause
 cls
 copy /b %picname%+%zipname% %endname%
+echo.
+echo.
 echo Utilities complete! Closing program...
-ping localhost -n 2 -w 1000>nul
+ping localhost -n 5 -w 1000>nul
 exit
