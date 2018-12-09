@@ -17,7 +17,7 @@ To use this program, we reccomend creating a folder on your C:\ Drive called "z2
 
 | Version | Download | Changelog for Version | TL;DR |
 |---------|----------|------------|-------|
-| 1.0 | [Download](https://www.github.com/) | [Here](https://www.github.com/) | Bug fixes and improvements, initial release. |
+| 1.0 | [Download](https://github.com/RHQOnline/zip2pic-compressor/releases/tag/1.0) | No Changelog | Bug fixes and improvements, initial release. |
 | 2.0 | N/A | Work in Progress | WIP |
 
 
