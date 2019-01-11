@@ -1,9 +1,9 @@
 Copyright 2019, RHQ Online. All Rights Reserved.
 
 End-User License Agreement (EULA) of RHQ Compression Suite
-This End-User License Agreement ("EULA") is a legal agreement between you and RHQOnline
+This End-User License Agreement ("EULA") is a legal agreement between you and RHQOnline.
 
-This EULA agreement governs your acquisition and use of our RHQ Compression Suite software ("Software") directly from RHQOnline or indirectly through a RHQOnline authorized reseller or distributor (a "Reseller").
+This EULA agreement governs your acquisition and use of our RHQ Compression Suite software ("Software") directly from RHQOnline or indirectly through an RHQOnline authorized reseller or distributor (a "Reseller").
 
 Please read this EULA agreement carefully before completing the installation process and using the RHQ Compression Suite software. It provides a license to use the RHQ Compression Suite software and contains warranty information and liability disclaimers.
 
@@ -16,7 +16,7 @@ This EULA agreement shall apply only to the Software supplied by RHQOnline herew
 License Grant
 RHQOnline hereby grants you a personal, non-transferable, non-exclusive licence to use the RHQ Compression Suite software on your devices in accordance with the terms of this EULA agreement.
 
-You are permitted to load the RHQ Compression Suite software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the RHQ Compression Suite software.
+You are permitted to load the RHQ Compression Suite software on a device (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the RHQ Compression Suite software.
 
 You are not permitted to:
 
@@ -30,16 +30,18 @@ You are not permitted to:
   
   Use the Software for any purpose that RHQOnline considers is a breach of this EULA agreement
   
-  Intellectual Property and Ownership
   
+Intellectual Property and Ownership  
 RHQOnline shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of RHQOnline.
 
 RHQOnline reserves the right to grant licences to use the Software to third parties.
+
 
 Termination
 This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to RHQOnline.
 
 It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
+
 
 Governing Law
 This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of us.
