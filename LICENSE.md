@@ -12,8 +12,8 @@ If you register for a free trial of the RHQ Compression Suite software, this EUL
 If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
 
 This EULA agreement shall apply only to the Software supplied by RHQOnline herewith regardless of whether other software is referred to or described herein. The terms also apply to any RHQOnline updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
-
-
+                                                                                                                                
+                                                                                                                                  
 License Grant                                                                                                                     
 RHQOnline hereby grants you a personal, non-transferable, non-exclusive licence to use the RHQ Compression Suite software on your devices in accordance with the terms of this EULA agreement.
 
@@ -30,19 +30,23 @@ You are not permitted to:
   Use the Software in any way which breaches any applicable local, state, national or international law
   
   Use the Software for any purpose that RHQOnline considers as a breach of this EULA agreement
-  
-  
+                                                                                                                                  
+                                                                                                                                  
 Intellectual Property and Ownership                                                                                               
 RHQOnline shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of RHQOnline.
 
 RHQOnline reserves the right to grant licences to use the Software to third parties.
 
 
+GitHub Clause                                                                                                                       
+RHQOnline has public and private repositiories on GitHub, an open-source development platform online. Per GitHub rules, replication and saving of a repository ("Forking") is permissible as all data on GitHub is assumed to part of the public domain. We accept this, but localized download of Forks will be un-authentic, as they did not come directly from RHQOnline or an authorized reseller or distributor. This is in violation of our EULA and TOS and your license will be immediately revoked.
+                                                                                                                        
+                                                                                                                            
 Termination                                                                                                                       
 This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to RHQOnline.
 
 It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software.
-
-
+                                                                                                                                  
+                                                                                                                                  
 Governing Law                                                                                                                     
 This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of us.
