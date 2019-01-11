@@ -26,7 +26,7 @@ You are not permitted to:
 
   Allow any third party to use the Software on behalf of or for the benefit of any third party
   
-  Use the Software in any way which breaches any applicable local, national or international law
+  Use the Software in any way which breaches any applicable local, state, national or international law
   
   Use the Software for any purpose that RHQOnline considers is a breach of this EULA agreement
   
