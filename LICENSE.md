@@ -1,4 +1,4 @@
-Copyright 2019, RHQ Online. All Rights Reserved.
+Copyright 2019, RHQOnline. All Rights Reserved.
 
 End-User License Agreement (EULA) of RHQ Compression Suite
 This End-User License Agreement ("EULA") is a legal agreement between you and RHQOnline.
