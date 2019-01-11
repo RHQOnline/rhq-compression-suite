@@ -28,7 +28,7 @@ You are not permitted to:
   
   Use the Software in any way which breaches any applicable local, state, national or international law
   
-  Use the Software for any purpose that RHQOnline considers is a breach of this EULA agreement
+  Use the Software for any purpose that RHQOnline considers as a breach of this EULA agreement
   
   
 Intellectual Property and Ownership  
