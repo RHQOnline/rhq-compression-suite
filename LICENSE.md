@@ -36,12 +36,10 @@ RHQOnline shall at all times retain ownership of the Software as originally down
 
 RHQOnline reserves the right to grant licences to use the Software to third parties.
 
-
 Termination
 This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to RHQOnline.
 
-It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
-
+It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software.
 
 Governing Law
 This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of us.
