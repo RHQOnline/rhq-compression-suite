@@ -17,8 +17,8 @@ echo (include file extensions!)
 echo.
 set /p tgtname="Target File Name: "
 set /p zipname="Archive File Name: "
-echo For the Desired Name, include the same image extension
-echo as the original image.
+echo For the Desired Name, include the same file extension
+echo as the original target file.
 set /p endname="Desired Name of Finished File: "
 echo.
 echo Processing...
